@@ -13,7 +13,7 @@
 🎨 Professional UI with CSS animations
 
 🔗 GitHub: https://github.com/ERMIYASZEWDU/sales-analytics-dashboard
-🌐 Live Demo: [Your URL]
+🌐 Live Demo: https://sales-analyticsdashboard.streamlit.app/
 
 #Streamlit #DataScience #Analytics #Python #BusinessIntelligence
 ```
@@ -48,7 +48,7 @@ This dashboard demonstrates advanced data analytics capabilities including:
 The project includes complete documentation, easy setup scripts, and is fully deployed on Streamlit Cloud.
 
 🔗 GitHub: https://github.com/ERMIYASZEWDU/sales-analytics-dashboard
-🌐 Live Demo: [Your URL]
+🌐 Live Demo: https://sales-analyticsdashboard.streamlit.app/
 
 What analytics features would you like to see in a sales dashboard? I'd love to hear your thoughts!
 

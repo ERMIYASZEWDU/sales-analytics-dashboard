@@ -6,7 +6,7 @@ I'm excited to share my comprehensive **Sales Analytics Dashboard** that I just 
 
 ## 🚀 **Live Demo**
 **GitHub Repository**: https://github.com/ERMIYASZEWDU/sales-analytics-dashboard
-**Live Dashboard**: [Your Streamlit Cloud URL here]
+**Live Dashboard**: https://sales-analyticsdashboard.streamlit.app/
 
 ## ✨ **What It Does**
 

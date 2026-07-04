@@ -1,10 +1,10 @@
 # 📊 Sales Analytics Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sales-analyticsdashboard.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/ERMIYASZEWDU/sales-analytics-dashboard)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)](https://www.python.org/)
 
-> **🚀 [Live Demo](https://your-app-url.streamlit.app) | 📖 [Documentation](#quick-start) | 🎯 [Features](#features)**
+> **🚀 [Live Demo](https://sales-analyticsdashboard.streamlit.app/) | 📖 [Documentation](#quick-start) | 🎯 [Features](#features)**
 
 A comprehensive, interactive sales data analytics dashboard built with Streamlit and Plotly. This dashboard provides deep insights into sales performance, customer behavior, product analytics, and regional trends through beautiful visualizations and advanced analytics.
 
@@ -74,9 +74,9 @@ A comprehensive, interactive sales data analytics dashboard built with Streamlit
 ## ⚡ Quick Start
 
 ### **🌐 Live Demo** 
-**[🔗 Interactive Dashboard](https://your-app-url.streamlit.app)** ← *Click to explore online!*
+**[🔗 Interactive Dashboard](https://sales-analyticsdashboard.streamlit.app/)** ← *Click to explore online!*
 
-*👆 Replace with your actual Streamlit Cloud URL after deployment*
+*Experience the full dashboard with 10k+ transactions, interactive filtering, and advanced analytics*
 
 ### **💻 Local Installation**
 
